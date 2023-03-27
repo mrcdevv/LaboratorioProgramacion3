@@ -1,0 +1,17 @@
+Para Access 97
+Access 2000
+Access 2002
+Access 2003
+
+Proveedor: Microsoft Jet OLE DB 4.0
+
+"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\mydatabase.mdb"
+
+
+Para Access 2007
+Access 2010
+Access 2013
+
+Provedor: Microsoft ACE OLEDB 12.0
+
+"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\myFolder\myAccessFile.accdb;Persist Security Info=False;"
