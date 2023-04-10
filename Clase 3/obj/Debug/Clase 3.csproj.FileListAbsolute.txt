@@ -1,0 +1,12 @@
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\bin\Debug\Clase 3.exe.config
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\bin\Debug\Clase 3.exe
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\bin\Debug\Clase 3.pdb
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase 3.csproj.AssemblyReference.cache
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase 3.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase_3.frmInicio.resources
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase_3.Properties.Resources.resources
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase 3.csproj.GenerateResource.cache
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase 3.csproj.CoreCompileInputs.cache
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase 3.exe
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase 3.pdb
+D:\Escritorio\pry\LaboratorioProgramacion3\Clase 3\obj\Debug\Clase_3.Form2.resources
