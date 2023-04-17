@@ -1,0 +1,16 @@
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\bin\Debug\Clase 5.exe.config
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\bin\Debug\Clase 5.exe
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\bin\Debug\Clase 5.pdb
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\bin\Debug\Interop.WMPLib.dll
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\bin\Debug\AxInterop.WMPLib.dll
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase 5.csproj.AssemblyReference.cache
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase 5.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Interop.WMPLib.dll
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\AxInterop.WMPLib.dll
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase 5.csproj.ResolveComReference.cache
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase_5.frmInicio.resources
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase_5.Properties.Resources.resources
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase 5.csproj.GenerateResource.cache
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase 5.csproj.CoreCompileInputs.cache
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase 5.exe
+D:\Escritorio\5\LaboratorioProgramacion3\Clase 5\obj\Debug\Clase 5.pdb
