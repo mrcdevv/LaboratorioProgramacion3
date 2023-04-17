@@ -30,7 +30,6 @@ namespace Clase_5
         private void btnReproducir_Click(object sender, EventArgs e)
         {
             wmpVideo.URL = "./videos/" + archivo;
-
         }
 
 
