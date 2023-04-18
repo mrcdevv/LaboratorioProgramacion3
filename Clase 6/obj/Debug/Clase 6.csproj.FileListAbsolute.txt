@@ -1,0 +1,13 @@
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\bin\Debug\Clase 6.exe.config
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\bin\Debug\Clase 6.exe
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\bin\Debug\Clase 6.pdb
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase 6.csproj.AssemblyReference.cache
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase 6.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase_6.frmInicio.resources
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase_6.Properties.Resources.resources
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase 6.csproj.GenerateResource.cache
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase 6.csproj.CoreCompileInputs.cache
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase 6.exe
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase 6.pdb
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase_6.frmReceta.resources
+D:\Escritorio\s\LaboratorioProgramacion3\Clase 6\obj\Debug\Clase_6.frmListView.resources
