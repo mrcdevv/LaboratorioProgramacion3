@@ -1,6 +1,6 @@
 ﻿namespace Clase_6
 {
-    partial class frmInicio
+    partial class frmCuadrosDialogo
     {
         /// <summary>
         /// Variable del diseñador necesaria.

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Clase_6
 {
-    public partial class frmInicio : Form
+    public partial class frmCuadrosDialogo : Form
     {
-        public frmInicio()
+        public frmCuadrosDialogo()
         {
             InitializeComponent();
         }
