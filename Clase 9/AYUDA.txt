@@ -1,0 +1,47 @@
+
+
+ADO .NET Y WINDOWS FORMS
+------------------------
+using System.Data.OleDb;
+using System.Data;
+using System.Windows.Forms;
+
+
+CADENA APP.CONFIG
+-----------------
+<applicationSettings>
+        <COLEGIO.Properties.Settings>
+            <setting name="CADENA" serializeAs="String">
+                <value>provider=microsoft.jet.oledb.4.0;data source=BD.mdb</value>
+            </setting>
+        </COLEGIO.Properties.Settings>
+</applicationSettings>
+
+
+OBJETOS
+-------
+private OleDbConnection conector;
+private OleDbCommand comando;
+private OleDbDataAdapter adaptador;
+private DataTable tabla;
+
+
+CONSTRUCTOR
+-----------
+conector = new OleDbConnection(Properties.Settings.Default.CADENA);
+comando = new OleDbCommand();
+
+comando.Connection = conector;
+comando.CommandType = CommandType.TableDirect;
+comando.CommandText = "Tabla";
+
+adaptador = new OleDbDataAdapter(comando);
+tabla = new DataTable();
+adaptador.Fill(tabla);
+
+DataColumn[] dc = new DataColumn[1];
+dc[0] = tabla.Columns["columna"];
+tabla.PrimaryKey = dc;
+
+
+ 
