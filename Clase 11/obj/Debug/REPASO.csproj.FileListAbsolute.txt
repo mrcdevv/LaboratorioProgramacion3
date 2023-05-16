@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\REPASO\bin\Debug\REPASO.exe.config
+C:\Users\Alumno\source\repos\REPASO\bin\Debug\REPASO.exe
+C:\Users\Alumno\source\repos\REPASO\bin\Debug\REPASO.pdb
+C:\Users\Alumno\source\repos\REPASO\obj\Debug\REPASO.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\REPASO\obj\Debug\REPASO.Form1.resources
+C:\Users\Alumno\source\repos\REPASO\obj\Debug\REPASO.Properties.Resources.resources
+C:\Users\Alumno\source\repos\REPASO\obj\Debug\REPASO.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\REPASO\obj\Debug\REPASO.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\REPASO\obj\Debug\REPASO.exe
+C:\Users\Alumno\source\repos\REPASO\obj\Debug\REPASO.pdb
+C:\Users\Alumno\source\repos\REPASO\obj\Debug\REPASO.Form2.resources
