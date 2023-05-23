@@ -1,0 +1,12 @@
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\bin\Debug\Clase 1.exe.config
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\bin\Debug\Clase 1.exe
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\bin\Debug\Clase 1.pdb
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase 1.csproj.AssemblyReference.cache
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase 1.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase_1.Properties.Resources.resources
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase 1.csproj.GenerateResource.cache
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase 1.csproj.CoreCompileInputs.cache
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase 1.exe
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase 1.pdb
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase_1.frmChart2.resources
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 1\obj\Debug\Clase_1.frmChart.resources
