@@ -1,0 +1,13 @@
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\bin\Debug\Clase 2.exe.config
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\bin\Debug\Clase 2.exe
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\bin\Debug\Clase 2.pdb
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase 2.csproj.AssemblyReference.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase 2.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase 2.csproj.GenerateResource.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase 2.csproj.CoreCompileInputs.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase 2.exe
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase 2.pdb
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase_2.frmProgressBar.resources
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase_2.frmTabControl.resources
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 2\obj\Debug\Clase_2.Form1.resources
