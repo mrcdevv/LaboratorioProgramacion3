@@ -1,0 +1,11 @@
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\bin\Debug\Clase 3.exe.config
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\bin\Debug\Clase 3.exe
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\bin\Debug\Clase 3.pdb
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.csproj.AssemblyReference.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase_3.Properties.Resources.resources
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.csproj.GenerateResource.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.csproj.CoreCompileInputs.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.exe
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.pdb
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase_3.frmEjercicio.resources
