@@ -40,16 +40,19 @@ namespace Clase_3
 
         public void Actualizar(int localidad, int cultivo, int toneladas)
         {
-            // Si ya existe una fila con el registro
+            
             object[] vec = new object[2];
             vec[0] = localidad;
             vec[1] = cultivo;
 
             DataRow fila = tabla.Rows.Find(vec);
+
+            // Si ya existe una fila con el registro
             if (fila != null)
             {
                 fila["toneladas"] = toneladas;
             } 
+            // Sino
             else
             {
                 fila = tabla.NewRow();
