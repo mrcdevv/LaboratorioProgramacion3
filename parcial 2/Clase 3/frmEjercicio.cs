@@ -33,6 +33,7 @@ namespace Clase_3
             loc.Listar(lstbox);
             cul.Listar(cboCultivo);
 
+            chart1.Series.Clear();
 
         }
 

@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea5 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend5 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label4 = new System.Windows.Forms.Label();
@@ -60,7 +60,7 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(432, 385);
+            this.tabControl1.Size = new System.Drawing.Size(787, 408);
             this.tabControl1.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
             this.tabControl1.TabIndex = 0;
             // 
@@ -77,7 +77,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 26);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(424, 355);
+            this.tabPage1.Size = new System.Drawing.Size(779, 378);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Actualizar";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -88,7 +88,7 @@
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F);
             this.label4.Location = new System.Drawing.Point(3, 3);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(418, 56);
+            this.label4.Size = new System.Drawing.Size(773, 56);
             this.label4.TabIndex = 8;
             this.label4.Text = "Actualizar Datos";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -171,7 +171,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 26);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(424, 355);
+            this.tabPage2.Size = new System.Drawing.Size(779, 378);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Graficar";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -179,7 +179,7 @@
             // btnGraficar
             // 
             this.btnGraficar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btnGraficar.Location = new System.Drawing.Point(8, 292);
+            this.btnGraficar.Location = new System.Drawing.Point(21, 292);
             this.btnGraficar.Name = "btnGraficar";
             this.btnGraficar.Size = new System.Drawing.Size(124, 34);
             this.btnGraficar.TabIndex = 8;
@@ -192,14 +192,14 @@
             this.lstbox.FormattingEnabled = true;
             this.lstbox.Location = new System.Drawing.Point(8, 61);
             this.lstbox.Name = "lstbox";
-            this.lstbox.Size = new System.Drawing.Size(124, 225);
+            this.lstbox.Size = new System.Drawing.Size(153, 225);
             this.lstbox.TabIndex = 6;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label5.Location = new System.Drawing.Point(31, 35);
+            this.label5.Location = new System.Drawing.Point(46, 35);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 20);
             this.label5.TabIndex = 5;
@@ -207,13 +207,13 @@
             // 
             // chart1
             // 
-            chartArea5.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea5);
-            legend5.Name = "Legend1";
-            this.chart1.Legends.Add(legend5);
-            this.chart1.Location = new System.Drawing.Point(138, 46);
+            chartArea1.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chart1.Legends.Add(legend1);
+            this.chart1.Location = new System.Drawing.Point(176, 35);
             this.chart1.Name = "chart1";
-            this.chart1.Size = new System.Drawing.Size(313, 300);
+            this.chart1.Size = new System.Drawing.Size(581, 300);
             this.chart1.TabIndex = 0;
             this.chart1.Text = "chart1";
             // 
@@ -221,7 +221,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(432, 385);
+            this.ClientSize = new System.Drawing.Size(787, 408);
             this.Controls.Add(this.tabControl1);
             this.Name = "frmEjercicio";
             this.Text = "Form1";

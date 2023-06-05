@@ -72,6 +72,27 @@ namespace Clase_3
 
         public void Graficar(int localidad, Chart grafico)
         {
+            Cultivo cul = new Cultivo();
+
+            DataTable tc = cul.Get_Tabla();
+            grafico.Series.Clear();
+
+            Series serie = grafico.Series.Add("Produccion");
+            foreach(DataRow fila in tc.Rows)
+            {
+                object[] vec = new object[2];
+                vec[0] = localidad;
+                vec[1] = fila["cultivo"];
+
+                int toneladas = 0;
+                DataRow fila1 = tabla.Rows.Find(vec);
+
+                if(fila1 != null)
+                {
+                    toneladas = Convert.ToInt32(fila1["toneladas"]);
+                }
+                serie.Points.AddXY(fila["nombre"], toneladas);
+            }
 
         }
 

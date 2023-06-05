@@ -44,7 +44,10 @@ namespace Clase_3
             lista.ValueMember = "cultivo";
         }
 
-
+        public DataTable Get_Tabla()
+        {
+            return tabla;
+        }
 
     }
 }
