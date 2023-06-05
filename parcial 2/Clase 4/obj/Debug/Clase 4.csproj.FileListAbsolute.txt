@@ -1,0 +1,11 @@
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\bin\Debug\Clase 4.exe.config
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\bin\Debug\Clase 4.exe
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\bin\Debug\Clase 4.pdb
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\obj\Debug\Clase 4.csproj.AssemblyReference.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\obj\Debug\Clase 4.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\obj\Debug\Clase_4.frmPictureBox.resources
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\obj\Debug\Clase_4.Properties.Resources.resources
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\obj\Debug\Clase 4.csproj.GenerateResource.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\obj\Debug\Clase 4.csproj.CoreCompileInputs.cache
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\obj\Debug\Clase 4.exe
+D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 4\obj\Debug\Clase 4.pdb
