@@ -40,31 +40,32 @@ namespace Clase_3
 
         public void Actualizar(int localidad, int cultivo, int toneladas)
         {
+            // Si ya existe una fila con el registro
             object[] vec = new object[2];
             vec[0] = localidad;
             vec[1] = cultivo;
 
             DataRow fila = tabla.Rows.Find(vec);
-            
+            if (fila != null)
+            {
+                fila["toneladas"] = toneladas;
+            } 
+            else
+            {
+                fila = tabla.NewRow();
+                fila["localidad"] = localidad;
+                fila["cultivo"] = cultivo;
+                fila["toneladas"] = toneladas;
+                tabla.Rows.Add(fila);
+            }
 
-            fila["toneladas"] = toneladas;
 
-            OleDbCommandBuilder cb = new OleDbCommandBuilder();
+            OleDbCommandBuilder cb = new OleDbCommandBuilder(adaptador);
             adaptador.Update(tabla);
-
-
-            //Agregar un registro nuevo. Antes de agregar tengo que validar que el codigo no exista
-            //usando lo de arriba (find)
-
-            //DataRow fila1 = tabla.NewRow(); 
-            //fila1["localidad"] = localidad;
-            //fila1["cultivo"] = cultivo;
-            //fila1["toneladads"] = toneladas;
-
-            //tabla.Rows.Add(fila1);
-            //OleDbCommandBuilder cb = new OleDbCommandBuilder();
-            //adaptador.Update(tabla);
+            cb.Dispose();
         }
+
+
 
         public void Graficar(int localidad, Chart grafico)
         {

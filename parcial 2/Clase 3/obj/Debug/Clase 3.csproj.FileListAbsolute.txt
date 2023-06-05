@@ -9,3 +9,14 @@ D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.cspro
 D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.exe
 D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.pdb
 D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase_3.frmEjercicio.resources
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\bin\Debug\Clase 3.exe.config
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\bin\Debug\Clase 3.exe
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\bin\Debug\Clase 3.pdb
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.csproj.AssemblyReference.cache
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase_3.frmEjercicio.resources
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase_3.Properties.Resources.resources
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.csproj.GenerateResource.cache
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.csproj.CoreCompileInputs.cache
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.exe
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 3\obj\Debug\Clase 3.pdb
