@@ -1,0 +1,11 @@
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\bin\Debug\Clase 6.exe.config
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\bin\Debug\Clase 6.exe
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\bin\Debug\Clase 6.pdb
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\obj\Debug\Clase 6.csproj.AssemblyReference.cache
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\obj\Debug\Clase 6.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\obj\Debug\Clase_6.Form1.resources
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\obj\Debug\Clase_6.Properties.Resources.resources
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\obj\Debug\Clase 6.csproj.GenerateResource.cache
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\obj\Debug\Clase 6.csproj.CoreCompileInputs.cache
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\obj\Debug\Clase 6.exe
+D:\Escritorio\algo\LaboratorioProgramacion3\parcial 2\Clase 6\obj\Debug\Clase 6.pdb

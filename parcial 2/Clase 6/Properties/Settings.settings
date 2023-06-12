@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Clase_6.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CADENA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">provider=microsoft.jet.oledb.4.0;data source=IES21.mdb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
