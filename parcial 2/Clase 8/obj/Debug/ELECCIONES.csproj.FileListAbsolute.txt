@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\ELECCIONES\bin\Debug\ELECCIONES.exe.config
+C:\Users\Alumno\source\repos\ELECCIONES\bin\Debug\ELECCIONES.exe
+C:\Users\Alumno\source\repos\ELECCIONES\bin\Debug\ELECCIONES.pdb
+C:\Users\Alumno\source\repos\ELECCIONES\obj\Debug\ELECCIONES.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\ELECCIONES\obj\Debug\ELECCIONES.Form1.resources
+C:\Users\Alumno\source\repos\ELECCIONES\obj\Debug\ELECCIONES.Properties.Resources.resources
+C:\Users\Alumno\source\repos\ELECCIONES\obj\Debug\ELECCIONES.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\ELECCIONES\obj\Debug\ELECCIONES.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\ELECCIONES\obj\Debug\ELECCIONES.exe
+C:\Users\Alumno\source\repos\ELECCIONES\obj\Debug\ELECCIONES.pdb
+C:\Users\Alumno\source\repos\ELECCIONES\obj\Debug\ELECCIONES.Form2.resources

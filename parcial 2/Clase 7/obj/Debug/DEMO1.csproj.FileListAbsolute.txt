@@ -1,0 +1,10 @@
+C:\Users\mec\source\repos\DEMO1\bin\Debug\DEMO1.exe.config
+C:\Users\mec\source\repos\DEMO1\bin\Debug\DEMO1.exe
+C:\Users\mec\source\repos\DEMO1\bin\Debug\DEMO1.pdb
+C:\Users\mec\source\repos\DEMO1\obj\Debug\DEMO1.csprojAssemblyReference.cache
+C:\Users\mec\source\repos\DEMO1\obj\Debug\DEMO1.Form1.resources
+C:\Users\mec\source\repos\DEMO1\obj\Debug\DEMO1.Properties.Resources.resources
+C:\Users\mec\source\repos\DEMO1\obj\Debug\DEMO1.csproj.GenerateResource.cache
+C:\Users\mec\source\repos\DEMO1\obj\Debug\DEMO1.csproj.CoreCompileInputs.cache
+C:\Users\mec\source\repos\DEMO1\obj\Debug\DEMO1.exe
+C:\Users\mec\source\repos\DEMO1\obj\Debug\DEMO1.pdb
