@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sp5-cerrajeria", "sp5-cerrajeria.csproj", "{A0CFDC75-1F75-4A29-A1EE-827647C4C4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0CFDC75-1F75-4A29-A1EE-827647C4C4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CFDC75-1F75-4A29-A1EE-827647C4C4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CFDC75-1F75-4A29-A1EE-827647C4C4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CFDC75-1F75-4A29-A1EE-827647C4C4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30414D26-1CDB-4CA0-B030-C2E846FED602}
+	EndGlobalSection
+EndGlobal

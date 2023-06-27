@@ -1,0 +1,11 @@
+C:\Users\mrc\Desktop\sp5-cerrajeria\bin\Debug\sp5-cerrajeria.exe.config
+C:\Users\mrc\Desktop\sp5-cerrajeria\bin\Debug\sp5-cerrajeria.exe
+C:\Users\mrc\Desktop\sp5-cerrajeria\bin\Debug\sp5-cerrajeria.pdb
+C:\Users\mrc\Desktop\sp5-cerrajeria\obj\Debug\sp5-cerrajeria.csproj.AssemblyReference.cache
+C:\Users\mrc\Desktop\sp5-cerrajeria\obj\Debug\sp5-cerrajeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrc\Desktop\sp5-cerrajeria\obj\Debug\sp5_cerrajeria.Form1.resources
+C:\Users\mrc\Desktop\sp5-cerrajeria\obj\Debug\sp5_cerrajeria.Properties.Resources.resources
+C:\Users\mrc\Desktop\sp5-cerrajeria\obj\Debug\sp5-cerrajeria.csproj.GenerateResource.cache
+C:\Users\mrc\Desktop\sp5-cerrajeria\obj\Debug\sp5-cerrajeria.csproj.CoreCompileInputs.cache
+C:\Users\mrc\Desktop\sp5-cerrajeria\obj\Debug\sp5-cerrajeria.exe
+C:\Users\mrc\Desktop\sp5-cerrajeria\obj\Debug\sp5-cerrajeria.pdb

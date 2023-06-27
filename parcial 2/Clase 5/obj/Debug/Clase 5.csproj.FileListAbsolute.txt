@@ -11,3 +11,16 @@ D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase 5.exe
 D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase 5.pdb
 D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase_5.frmJuego.resources
 D:\Escritorio\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase_5.Form3.resources
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\bin\Debug\Clase 5.exe.config
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\bin\Debug\Clase 5.exe
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\bin\Debug\Clase 5.pdb
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase 5.csproj.AssemblyReference.cache
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase_5.frmDibujarConMouse.resources
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase_5.frmJuego.resources
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase_5.frmGraficarTablero.resources
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase_5.Properties.Resources.resources
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase 5.csproj.GenerateResource.cache
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase 5.csproj.CoreCompileInputs.cache
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase 5.exe
+C:\Users\mrc\dev\Facultad\LaboratorioProgramacion3\parcial 2\Clase 5\obj\Debug\Clase 5.pdb
